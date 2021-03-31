@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Laba_11.dir/main.c.o  -o Laba_11.exe -Wl,--out-implib,libLaba_11.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

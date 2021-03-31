@@ -1,0 +1,6 @@
+/cygdrive/c/Users/Артемий/CLionProjects/Laba_11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Артемий/CLionProjects/Laba_11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Артемий/CLionProjects/Laba_11/cmake-build-debug/CMakeFiles/Laba_11.dir
+/cygdrive/c/Users/Артемий/CLionProjects/Laba_11/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Артемий/CLionProjects/Laba_11/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Артемий/CLionProjects/Laba_11/cmake-build-debug/tests/CMakeFiles/tests.dir
